@@ -1,0 +1,16 @@
+body{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	background-color: #DCDCDC;
+	font-family: 'Redressed', cursive; 
+}
+ol, ul{
+	margin: 0 auto;
+	padding: 20px;
+}
+h1, h2{
+	margin: 0 auto;
+	padding: 10px;
+}
+
