@@ -6,5 +6,5 @@ This website is a recipes website, it has three recipes on it like:
 2) Melktert
 3) Herderspastei
 
-All of above recipes have a small decription of the dish, with
+All of above recipes have a small description of the dish, with
 steps and the ingredients.
