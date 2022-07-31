@@ -14,7 +14,12 @@ a{
 	text-decoration: none;
 	padding: 20px;
 	font-size: 20px;
+	color: #000000;
 	cursor: pointer;
+	margin: 0 auto;
+}
+a:hover{
+	color: red;
 }
 .box{
 
@@ -33,6 +38,10 @@ img{
 	height: 500px;
 	padding: 50px 50px 20px 50px;
 }
+.box:hover{
+	width: 50%;
+	box-shadow: 0px 0px 0px;
+}
 @media screen and (max-width: 960px){
 	.box{
 		width: 70%;
@@ -40,5 +49,11 @@ img{
 	img{
 		width: 80%;		
 	}
+	.box:hover{
+		width: 80%
+	}
 }
 
+footer{
+	padding: 20px;
+}
