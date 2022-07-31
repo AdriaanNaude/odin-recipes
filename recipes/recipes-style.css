@@ -5,6 +5,17 @@ body{
 	background-color: #DCDCDC;
 	font-family: 'Redressed', cursive; 
 }
+img{
+	margin: 0 auto;
+	width: 40%;
+	height: 500px;
+	padding: 50px 50px 20px 50px;
+}
+@media screen and (max-width: 960px){
+	img{
+		width: 80%;		
+	}
+}	
 ol, ul{
 	padding: 20px;
 	
@@ -14,7 +25,7 @@ ol, ul{
 	background-color: #BFBFBF;
 	padding: 20px;
 }
-h1, h2{
+h1, h2, h3{
 	margin: 0 auto;
 	padding: 10px;
 }
